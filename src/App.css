@@ -1,0 +1,25 @@
+/* .tables-cont{
+margin-left:100px!important;
+margin-right:-100px !important
+} */
+
+
+.search-global{
+  margin-top:50px !important;
+  margin-bottom:20px !important;
+  margin-left:50px !important
+}
+
+.tables-cont{
+margin: auto !important;
+width: 70% !important;
+background-color: #eee !important;
+
+}
+.makeStyles-container-2{
+  border-radius: 50px 0px 0px 50px !important;
+
+}
+th{
+  background: #eee !important;
+}

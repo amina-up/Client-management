@@ -1,0 +1,13 @@
+{
+  "client":[
+      {
+          "id":1,
+          "custumer":"ali",
+          "Contacts":"78945621",
+          "Emails":"ma@gmail.com",
+          "Date":"25/07/2020",
+          "Chiffre":"123456",
+          "Logo":"https://as2.ftcdn.net/jpg/02/46/85/95/500_F_246859514_8rV4c2tC3PB83aJDAric8Yyt9oc7lFyk.jpg"
+      }
+  ]
+}
